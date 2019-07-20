@@ -1,2 +1,2 @@
-console.log("hello world");
+console.log("hello merge conflict");
 console.log("git is good");
